@@ -1,6 +1,6 @@
 # invoice-it-example
 
-Simple example that shows how to use [@rimiti/invoice-it](https://github.com/rimiti/invoice-it) package ([Tutorial](https://dimsolution.com/blog/2018-05-29/how-to-easily-generate-order-invoice-pdf-file/))).
+Simple example that shows how to use [@rimiti/invoice-it](https://github.com/rimiti/invoice-it) package ([Associated tutorial](https://dimsolution.com/blog/2018-05-29/how-to-easily-generate-order-invoice-pdf-file/)).
 
 ## Results
 
