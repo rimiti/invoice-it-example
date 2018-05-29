@@ -6,7 +6,7 @@ Simple example that shows how to use [@rimiti/invoice-it](https://github.com/rim
 
 Screenshots of generated files.
 
-<img src="https://github.com/rimiti/invoice-it-example/blob/master/demo/images/order.png" height="550"> <img src="https://github.com/rimiti/invoice-it-example/blob/master/demo/images/invoice.png" height="550">
+<img src="https://github.com/rimiti/invoice-it-example/blob/master/demo/order.png" height="550"> <img src="https://github.com/rimiti/invoice-it-example/blob/master/demo/invoice.png" height="550">
 
 ## Scripts
 
