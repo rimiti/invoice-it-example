@@ -1,4 +1,4 @@
-import invoiceIt from '@rimiti/invoice-it';
+const invoiceIt = require('@rimiti/invoice-it');
 
 // Configuration
 invoiceIt.configure({
@@ -18,4 +18,4 @@ invoiceIt.configure({
     },
 });
 
-export default invoiceIt;
+module.exports = invoiceIt;
