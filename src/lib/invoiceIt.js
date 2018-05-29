@@ -15,6 +15,11 @@ invoiceIt.configure({
     },
     global: {
         logo: 'http://placehold.it/230x70&text=Dim+Solution',
+        lang: 'en',
+        footer: {
+            fr: 'Société par Actions Simplifiée Unipersonnelle (SASU) - Capital de 1 000 000 € - SIRET: 87564738493127 <br> NAF-APE: 6202A - Num. TVA: FR28987856541',
+            en: 'Dim Solution inc - Registration: 87564738493127 <br> NAF-APE: 6202A - Num. VAT: EN28987856541'
+        },
     },
 });
 
